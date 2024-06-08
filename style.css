@@ -1,5 +1,5 @@
 html {
-    background-color: black;
+    --tg-theme-bg-color: black;
     color: #D4A067;
 }
 
