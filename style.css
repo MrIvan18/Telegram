@@ -1,6 +1,7 @@
 html {
-    background-color: #cfcfcf;
+    /* background-color: black; */
     color: #D4A067;
+    --tg-theme-bg-color: red;
 }
 
 .general_image {
