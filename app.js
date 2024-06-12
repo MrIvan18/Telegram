@@ -18,7 +18,6 @@ btn1.addEventListener("click", function(){
     if(tg.MainButton.isVisible && item == "1") {
         tg.MainButton.hide();
         item = "";
-        btn1.style.backgroundColor = "#d4a066";
     }
     else {
         tg.MainButton.setText("Вы выбрали товар 1!")
@@ -31,7 +30,6 @@ btn2.addEventListener("click", function(){
     if(tg.MainButton.isVisible && item == "2") {
         tg.MainButton.hide();
         item = "";
-        btn2.style.backgroundColor = "#d4a066";
     }
     else {
         tg.MainButton.setText("Вы выбрали товар 2!")
