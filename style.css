@@ -37,7 +37,7 @@ body {
 
 .item {
     text-align: center;
-    margin: 10px 20px; /* Добавлены вертикальные отступы */
+    margin: 10px; /* Добавлены вертикальные отступы */
 }
 
 .btn {
