@@ -26,12 +26,12 @@ btn1.addEventListener("click", function(){
 });
 
 btn2.addEventListener("click", function(){
-    if(tg.MainButton.isVisible && item == "1") {
+    if(tg.MainButton.isVisible && item == "2") {
         tg.MainButton.hide();
     }
     else {
-        tg.MainButton.setText("Вы выбрали товар 1!")
-        item = "1";
+        tg.MainButton.setText("Вы выбрали товар 2!")
+        item = "2";
         tg.MainButton.show();
     }
 });
