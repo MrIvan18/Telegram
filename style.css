@@ -8,8 +8,6 @@ body {
 
 .container {
     max-width: 390px;
-    justify-content: center;
-    align-items: center;
 }
 
 .inner {
@@ -39,7 +37,7 @@ body {
 
 .item {
     text-align: center;
-    margin: 10px; /* Добавлены вертикальные отступы */
+    margin: 10px 20px; /* Добавлены вертикальные отступы */
 }
 
 .btn {
