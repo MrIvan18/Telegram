@@ -54,7 +54,7 @@ body {
 }
 
 .btn:active {
-
+    background: #90ee90;
 }
 
 .usercard {
